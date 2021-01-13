@@ -4,7 +4,7 @@
 <p>
  WegahNulisno is a website for generating writings into books.
 </p>
-Demo: https://wegahnulis.vercel.app/
+Demo: https://wegahnulis-mu.vercel.app/
 <br>
 
 ![Tulisno Preview](https://i.imgur.com/2XU2qYo.png)
